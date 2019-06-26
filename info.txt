@@ -1,0 +1,8 @@
+PROBLEm DEFINATION
+
+Contoso is a multinational coompany and has 12 offices
+all over the world. they wanted  all the employees should get 
+the all information about customer accounting so 
+they require to buildn host website to access the infromation
+The company wants to bulid the host information system
+in public cloud or google cloud platform or AWS.  
